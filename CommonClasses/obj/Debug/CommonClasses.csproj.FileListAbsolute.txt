@@ -1,0 +1,5 @@
+A:\UNI\SIT323\Assignment2\CommonClasses\bin\Debug\CommonClasses.dll
+A:\UNI\SIT323\Assignment2\CommonClasses\bin\Debug\CommonClasses.pdb
+A:\UNI\SIT323\Assignment2\CommonClasses\obj\Debug\CommonClasses.csproj.CoreCompileInputs.cache
+A:\UNI\SIT323\Assignment2\CommonClasses\obj\Debug\CommonClasses.dll
+A:\UNI\SIT323\Assignment2\CommonClasses\obj\Debug\CommonClasses.pdb
