@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f6cddeea-ae13-4621-9b42-416d4388608c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://at2lb-66160624.us-east-1.elb.amazonaws.com/microAT2/Service.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service.xsd" MetadataType="Schema" ID="1f539441-1a22-457e-b74f-1b7e854f6fed" SourceId="1" SourceUrl="http://at2lb-66160624.us-east-1.elb.amazonaws.com/microAT2/Service.svc?xsd=xsd3" />
+    <MetadataFile FileName="Service.disco" MetadataType="Disco" ID="b986be90-975c-4194-962f-9b9958315f65" SourceId="1" SourceUrl="http://at2lb-66160624.us-east-1.elb.amazonaws.com/microAT2/Service.svc?disco" />
+    <MetadataFile FileName="Service1.xsd" MetadataType="Schema" ID="5d64fc02-3301-4982-b754-98c55b9040a0" SourceId="1" SourceUrl="http://at2lb-66160624.us-east-1.elb.amazonaws.com/microAT2/Service.svc?xsd=xsd1" />
+    <MetadataFile FileName="Service2.xsd" MetadataType="Schema" ID="30f6fb62-58c2-4db9-8276-1f7881291e32" SourceId="1" SourceUrl="http://at2lb-66160624.us-east-1.elb.amazonaws.com/microAT2/Service.svc?xsd=xsd0" />
+    <MetadataFile FileName="Service3.xsd" MetadataType="Schema" ID="6e0b761b-02d5-4cf3-bf47-4b32d51ffa32" SourceId="1" SourceUrl="http://at2lb-66160624.us-east-1.elb.amazonaws.com/microAT2/Service.svc?xsd=xsd2" />
+    <MetadataFile FileName="Service.wsdl" MetadataType="Wsdl" ID="52d97b17-ecce-4b29-8cd7-5709bf039f39" SourceId="1" SourceUrl="http://at2lb-66160624.us-east-1.elb.amazonaws.com/microAT2/Service.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://at2lb-66160624.us-east-1.elb.amazonaws.com/smallAT2/Service.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/CommonClasses" />
+  <xs:element name="GenerateAllocations">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/CommonClasses" minOccurs="0" name="configData" nillable="true" type="q1:ConfigurationData" />
+        <xs:element minOccurs="0" name="WCFServiceID" type="xs:int" />
+        <xs:element minOccurs="0" name="deadline" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GenerateAllocationsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="GenerateAllocationsResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Testing">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="milliseconds" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TestingResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="TestingResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

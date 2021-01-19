@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b0b7fddd-0547-4b31-918c-5ed6de1e22a1" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://at2lb-66160624.us-east-1.elb.amazonaws.com/nanoAT2/Service.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service.xsd" MetadataType="Schema" ID="73ea6aab-a12a-4c0d-a5d6-492dbc776998" SourceId="1" SourceUrl="http://at2lb-66160624.us-east-1.elb.amazonaws.com/nanoAT2/Service.svc?xsd=xsd1" />
+    <MetadataFile FileName="Service.disco" MetadataType="Disco" ID="81ef6a0c-32f2-4cec-bb8e-fe1f34a28213" SourceId="1" SourceUrl="http://at2lb-66160624.us-east-1.elb.amazonaws.com/nanoAT2/Service.svc?disco" />
+    <MetadataFile FileName="Service1.xsd" MetadataType="Schema" ID="86e3fc4f-c8ef-48ed-897d-c51ca35c333f" SourceId="1" SourceUrl="http://at2lb-66160624.us-east-1.elb.amazonaws.com/nanoAT2/Service.svc?xsd=xsd0" />
+    <MetadataFile FileName="Service.wsdl" MetadataType="Wsdl" ID="9f04f63a-9f1e-4fe4-942a-2918130bf6c5" SourceId="1" SourceUrl="http://at2lb-66160624.us-east-1.elb.amazonaws.com/nanoAT2/Service.svc?wsdl" />
+    <MetadataFile FileName="Service2.xsd" MetadataType="Schema" ID="64d9e67d-f39b-4ea0-a659-5c586cad62d3" SourceId="1" SourceUrl="http://at2lb-66160624.us-east-1.elb.amazonaws.com/nanoAT2/Service.svc?xsd=xsd2" />
+    <MetadataFile FileName="Service3.xsd" MetadataType="Schema" ID="70083869-4381-476e-b295-924e55106e9f" SourceId="1" SourceUrl="http://at2lb-66160624.us-east-1.elb.amazonaws.com/nanoAT2/Service.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
