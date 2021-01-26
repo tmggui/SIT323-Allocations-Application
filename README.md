@@ -2,7 +2,7 @@
 ###### Thomas Guilfoyle | SIT323 Cloud Application development | Deakin University
 
 This is the final year project of the Cloud Computing major for the Bachelor of Information Technology <br />
-at Deakin Universirty. The class that this was conduncted in was SIT323 Cloud Application Development with Dr Robert Dew. <br />
+at Deakin University. The class that this was conduncted in was SIT323 Cloud Application Development with Dr Robert Dew. <br />
 All work shown here is my own. <br />
 
 The project was split into two parts, the core functionality of the project was built for Assigment 1, where students <br />
