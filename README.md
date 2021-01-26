@@ -3,6 +3,7 @@
 
 This is the final year project of the Cloud Computing major for the Bachelor of Information Technology <br />
 at Deakin Universirty. The class that this was conduncted in was SIT323 Cloud Application Development with Dr Robert Dew. <br />
+All work here is my own. <br />
 
 
 
