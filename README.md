@@ -18,7 +18,7 @@ and then attempt to create our own .taff files with potential allocations to the
 take years to produce valid allocations using the resources of one computer, we had to add functionality to our project which could allow <br />
 our program to connect to Amazon Web services and dynamically use and scale machines based on the workload of the program.
 
-We finally had to create a short video to provide evidence of what we had done, this is attached below.
+Finally, we had to create a short video to provide evidence of what we had done, this is attached below.
 
 
 Link to evidence for marking video: https://u.pcloud.link/publink/show?code=XZjjpmXZV78iTgyx1u4bqUHouw5cK4ld5zGV
